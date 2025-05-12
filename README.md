@@ -1,4 +1,4 @@
-![Screenshot 2025-05-12 182418](https://github.com/user-attachments/assets/9c55d068-5516-4977-a584-17e59b49e0ab)# Ex.07 Restaurant Website
+# Ex.07 Restaurant Website
 # Date:
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -605,13 +605,12 @@ about.html
 </html>
 ```
 # OUTPUT:
-![Screenshot 2025-05-12 182418](https://github.com/user-attachments/assets/c3c2dffc-f669-4e9b-aa2e-967af5eb2fc8)
-![Uploading Screenshot 2025-05-12 182435.png…]()
+![Screenshot 2025-05-12 182418](https://github.com/user-attachments/assets/521aa896-bcb3-4ce7-af9a-64429dffe588)
+![Screenshot 2025-05-12 182435](https://github.com/user-attachments/assets/60548ca6-6546-4d6b-be05-38a423f57b0e)
 ![Screenshot 2025-05-12 182451](https://github.com/user-attachments/assets/e0b62ab4-7608-4095-b768-b04965fb9741)
 ![Screenshot 2025-05-12 182505](https://github.com/user-attachments/assets/b1f14974-ff35-4912-be36-b19743d362c3)
 ![Screenshot 2025-05-12 182518](https://github.com/user-attachments/assets/0afabed3-d63b-4b45-b712-86cc39b5b3e2)
 ![Screenshot 2025-05-12 182529](https://github.com/user-attachments/assets/c1f71833-bc45-4308-926d-4b45e948f439)
-![university png](https://github.com/user-attachments/assets/5b452e9c-7b00-454b-89d1-1626f720347b)
 
 
 
