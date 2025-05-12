@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+![Screenshot 2025-05-12 182418](https://github.com/user-attachments/assets/9c55d068-5516-4977-a584-17e59b49e0ab)# Ex.07 Restaurant Website
 # Date:
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -605,11 +605,19 @@ about.html
 </html>
 ```
 # OUTPUT:
-![alt text](<aishu/resapp/static/Screenshot 2024-12-19 104818.png>)
-![alt text](<aishu/resapp/static/Screenshot 2024-12-19 104855.png>)
-![alt text](<aishu/resapp/static/Screenshot 2024-12-19 104944.png>)
-![alt text](<aishu/resapp/static/Screenshot 2024-12-19 105900.png>)
-![alt text](<aishu/resapp/static/Screenshot 2024-12-19 105032.png>)
-![alt text](<aishu/resapp/static/Screenshot 2024-12-19 104957.png>)
+![Screenshot 2025-05-12 182418](https://github.com/user-attachments/assets/c3c2dffc-f669-4e9b-aa2e-967af5eb2fc8)
+![Uploading Screenshot 2025-05-12 182435.png…]()
+![Screenshot 2025-05-12 182451](https://github.com/user-attachments/assets/e0b62ab4-7608-4095-b768-b04965fb9741)
+![Screenshot 2025-05-12 182505](https://github.com/user-attachments/assets/b1f14974-ff35-4912-be36-b19743d362c3)
+![Screenshot 2025-05-12 182518](https://github.com/user-attachments/assets/0afabed3-d63b-4b45-b712-86cc39b5b3e2)
+![Screenshot 2025-05-12 182529](https://github.com/user-attachments/assets/c1f71833-bc45-4308-926d-4b45e948f439)
+![university png](https://github.com/user-attachments/assets/5b452e9c-7b00-454b-89d1-1626f720347b)
+
+
+
+
+
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
